@@ -1,0 +1,5 @@
+function readmore(){
+    document.getElementById('readmore').innerHTML="মানুষের ভালোবাসা আর সাহায্যের হাত আমাদের পথ চলার সঙ্গী। <hr> <p>Aikyabadhya is a product of a united society. Aikyabadhya is not a field of single thought, not a single effort. The organization is moving forward with the intoxication of social change of many people & the spirit of renaissance. Aikyabaddha wants to ignite the latent fire in the depth of all the wet gunpowder of this society, wants to eradicate social degradation superstition. With this in mind, work began in a concerted effort.One by one the Covid,flood,storms whenever the shattered dreams are shattered, Aikyabadhya tries to fix them with little effort.Human love and helping hand are our companions in the journey.</p>"
+    document.getElementById('readmoree').style.display ="none"
+}
+document.getElementById('year').innerHTML= (new Date().getFullYear());
